@@ -2,7 +2,12 @@
 
 ###
 
-<p align="left">My name is Syed Ahmed and I'm a Full Stack developer, from UAE</p>
+<p align="left">
+  🌐 syedahmedraza.com 
+  💻 Web developer 
+  🚀 Aiming for Billionaire 
+  📚 Always Learning & Growing 
+  💡 Exploring New Frontiers in Tech, Business & Innovation</p>
 
 ###
 
