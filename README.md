@@ -19,12 +19,6 @@
 
 <img src="https://raw.githubusercontent.com/ahmedshahdev/ahmedshahdev/output/snake.svg" alt="Snake animation" />
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
 <br clear="both">
 
 <h3 align="left">Languages and Tools:</h3>
