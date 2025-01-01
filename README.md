@@ -5,7 +5,6 @@
 <p align="left">
   🌐 syedahmedraza.com <br>
   💻 Web developer <br>
-  🚀 Aiming for Billionaire <br>
   📚 Always Learning & Growing <br>
   💡 Exploring New Frontiers in Tech, Business & Innovation</p>
 
