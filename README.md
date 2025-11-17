@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  🌐 syedahmedraza.com <br>
+  🌐 zxtas.com <br>
   💻 Web developer <br>
   📚 Always Learning & Growing <br>
   💡 Exploring New Frontiers in Tech, Business & Innovation</p>
