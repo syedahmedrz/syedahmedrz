@@ -3,10 +3,13 @@
 ###
 
 <p align="left">
-  🌐 zxtas.com <br>
-  💻 Web developer <br>
-  📚 Always Learning & Growing <br>
-  💡 Exploring New Frontiers in Tech, Business & Innovation</p>
+Innovation is something I deeply believe in. It has the power to shape every industry, whether it’s technology, agriculture, or any other field.
+
+This is Syed Ahmed, an entrepreneur who builds and ships solutions that bring transparency, solve real problems, and innovate industries.
+
+I’m the founder of Qalvro, a workspace management platform that helps teams stay organized from idea to execution, providing a clear view of every task and each step involved, so work remains visible and easy to understand.
+
+Alongside that, I’m also the founder of Zxtas, where we design and build scalable digital products, systems, and experiences for startups and businesses worldwide.</p>
 
 ###
 
